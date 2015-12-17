@@ -6,18 +6,18 @@
 Github地址：https://github.com/facebook/react  
 CDN地址：  
 开发环境
-```
+```JS
 <script src="https://fb.me/react-0.14.3.js"></script>
 <script src="https://fb.me/react-dom-0.14.3.js"></script>
 ```
 
 生产环境
-```
+```JS
 <script src="https://fb.me/react-0.14.3.min.js"></script>
 <script src="https://fb.me/react-dom-0.14.3.min.js"></script>
 ```
 好吧，国内不能访问，请使用国内镜像
-```
+```JS
 //cdn.bootcss.com/react/0.14.3/react.js
 ```
 ##入门例子
@@ -25,7 +25,7 @@ CDN地址：
 http://facebook.github.io/react/downloads/react-0.14.3.zip
 开发者很照顾大家，开发包中有详细的例子。
 本教程为了摆脱对本地库的依赖都会使用CDN。
-```
+```HTML
 <!DOCTYPE html>
 <html>
   <head>
